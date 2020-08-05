@@ -1,0 +1,14 @@
+- [ ] 15 00:49:54 | Advanced Function Concepts
+	- [ ] 324 00 Module Introduction | 00:57
+	- [ ] 325 00 Pure Functions & Side-Effects | 06:13
+	- [ ] 326 00 Impure vs Pure Functions | 02:00
+	- [ ] 327 00 Factory Functions | 05:41
+	- [ ] 328 00 Closures | 07:45
+	- [ ] 329 00 Closures in Practice | 07:01
+	- [ ] 330 00 Closures & Memory Management | 01:23
+	- [ ] 331 00 Optional: IIFEs | 00:57
+	- [ ] 332 00 Introducing "Recursion" | 07:32
+	- [ ] 333 00 Advanced Recursion | 09:01
+	- [ ] *** ** Advanced Functions 4 questions
+	- [ ] 334 00 Wrap Up | 01:14
+	- [ ] 335 00 Useful Resources & Links | 00:10
